@@ -12,7 +12,11 @@ After thorough research, I set my sights on the Printrbot Simple Metal. This pri
 
 ### Assembly and Calibration
 
-Upon finally acquiring the Printrbot Simple Metal Kit with Heated Bed, I embarked on the assembly journey. The kit provided a decent challenge, though the assembly instructions were well-structured and comprehensive. The true challenge surfaced during my first print and subsequent calibrations. The printer employs an auto-leveling probe that detects metal. Achieving the perfect nozzle calibration took several days of meticulous adjustments. Additional calibrations, like fine-tuning retraction speeds and increasing print speeds, followed.
+Upon finally acquiring the Printrbot Simple Metal Kit with Heated Bed, I embarked on the assembly journey. The kit provided a decent challenge, though the assembly instructions were well-structured and comprehensive. The true challenge surfaced during my first print and subsequent calibrations. The printer employs an auto-leveling probe that detects metal. Achieving the perfect nozzle calibration took several days of meticulous adjustments. Additional calibrations, like fine-tuning retraction speeds and increasing print speeds, followed. 
+
+Early photo of the printer:
+
+![Printrbot Simple Metal](/assets/2014.png)
 
 ## Favorite Accessories and Upgrades
 
@@ -34,4 +38,12 @@ As my experience with the Printrbot Simple Metal grew, I discovered several esse
 
 ## Final Form and Upgrades
 
+This printer has severed me very well over the years, and since then I've built new printers. In it'f final form, I have updated the mainboard to a BigTreeTech SKR MINI V2 that has a 32-bit chip as well as better stepper drivers. This also meant, uploading new Marling firmware, which can be found here: 
 
+[Marlin](https://github.com/shivammehta220/Marlin/tree/Printrbot-Simple-Metal)
+
+Addtionally, I added a TFT display to easily upload prints and a slim PSU.
+
+![Printrbot Simple Metal](/assets/final.png)
+![Printrbot Simple Metal](/assets/tft.png)
+![Printrbot Simple Metal](/assets/mainboard.png)
